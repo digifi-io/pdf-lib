@@ -90,7 +90,7 @@
     "typescript": "^3.9.5"
   },
   "license": "MIT",
-  "private": true,
+  "private": false,
   "publishConfig": {
     "@digifi:registry": "https://registry.npmjs.org"
   }
